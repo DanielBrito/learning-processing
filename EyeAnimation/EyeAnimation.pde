@@ -46,6 +46,6 @@ void createET(){
 void mousePressed(){
     // Angry eyes
     fill(255, 0,0);
-    circle(200, 150, 10);
-    circle(250, 150, 10);
+    circle(200+(mouseX%10), 150+(mouseY%10), 10);
+    circle(250+(mouseX%10), 150+(mouseY%10), 10);
 }
