@@ -3,10 +3,11 @@ class Bubble{
     float x, y;
     float radius;
     
-    Bubble(){
+    Bubble(float r){
+        
         x = width/2;
         y = height;
-        radius = 10;
+        radius = r;
     }
     
     void ascend(){

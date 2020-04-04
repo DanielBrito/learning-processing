@@ -2,7 +2,7 @@ Bubble b;
 
 void setup(){
     size(640, 360);
-    b = new Bubble();
+    b = new Bubble(10);
 }
 
 void draw(){
