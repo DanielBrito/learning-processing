@@ -2,7 +2,7 @@
 
 These examples cover several concepts related to creative coding with Processing from my [self-learning](https://github.com/DanielBrito/self-learning) studies.
 
-## Useful Resources
+## 🧰 Useful Resources
 
 - [Trig Cheat Sheet](https://github.com/DanielBrito/learning-processing/blob/master/Trig%20Cheat%20Sheet.pdf)
 
