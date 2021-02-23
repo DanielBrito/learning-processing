@@ -1,6 +1,6 @@
 # :framed_picture: Learning Processing
 
-These examples cover several concepts related to creative coding with Processing from my [self-learning](https://github.com/DanielBrito/self-learning) studies.
+These examples cover several concepts related to creative coding with Processing from my [self-directed](https://github.com/DanielBrito/self-learning) studies.
 
 ## :rocket: Personal Projects
 
